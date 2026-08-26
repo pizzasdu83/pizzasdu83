@@ -13,3 +13,9 @@ Anyway, I did some little dumb projects, like the ones u can see on https://pizz
 I also forked some ["sleeping oneko" for vencord](https://github.com/pizzasdu83/Vencomp), that has new sprits/animations.
 
 Except that, I'm broke, I don't have a computer and I code on my tablet or my phone…
+
+Bye ![ralbye](https://static.wikia.nocookie.net/deltarune/images/6/6c/Ralsei_overworld_wave.gif/revision/latest?cb=20221112081205)
+
+Hope you have great day! :D
+
+![The best guy ever XD](https://static.wikia.nocookie.net/megamitensei/images/2/27/Masao_Inaba_%28Mark%29.png/revision/latest?cb=20230711084958)
