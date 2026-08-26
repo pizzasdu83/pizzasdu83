@@ -16,6 +16,6 @@ Except that, I'm broke, I don't have a computer and I code on my tablet or my ph
 
 Bye ![ralbye](https://static.wikia.nocookie.net/deltarune/images/6/6c/Ralsei_overworld_wave.gif/revision/latest?cb=20221112081205)
 
-Hope you have great day! :D
+Hope you have great day! :D ![Kirby](https://cdn.discordapp.com/emojis/1523679488385220608.webp?size=48&quality=lossless&name=kirby&animated=true)
 
 ![The best guy ever XD](https://static.wikia.nocookie.net/megamitensei/images/2/27/Masao_Inaba_%28Mark%29.png/revision/latest?cb=20230711084958)
