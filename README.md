@@ -12,6 +12,10 @@ So, here's the MC movie in a gif:
 Anyway, I did some little dumb projects, like the ones u can see on https://pizzasdu83.github.io and more recently [my fork of oneko for iOS, Syoboneko](https://github.com/pizzasdu83/syoboneko) and [my fork of dopamine](https://github.com/pizzasdu83/DopamineWithURL), that has a brand new theme and you can do things with url.
 I also forked some ["sleeping oneko" for vencord](https://github.com/pizzasdu83/Vencomp), that has new sprits/animations.
 
+I made a [Flowery simulator](https://github.com/pizzasdu83/Flowerman) with 0 use of ai, very happy with it! :D
+
+![spiral](https://raw.githubusercontent.com/pizzasdu83/Flowerman/refs/heads/main/flo/spiral.gif)
+
 Except that, I'm broke, I don't have a computer and I code on my tablet or my phone…
 
 Bye ![ralbye](https://static.wikia.nocookie.net/deltarune/images/6/6c/Ralsei_overworld_wave.gif/revision/latest?cb=20221112081205)
