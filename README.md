@@ -23,3 +23,5 @@ Bye ![ralbye](https://static.wikia.nocookie.net/deltarune/images/6/6c/Ralsei_ove
 Hope you have great day! :D ![Kirby](https://cdn.discordapp.com/emojis/1523679488385220608.webp?size=48&quality=lossless&name=kirby&animated=true)
 
 ![The best guy ever XD](https://static.wikia.nocookie.net/megamitensei/images/2/27/Masao_Inaba_%28Mark%29.png/revision/latest?cb=20230711084958)
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pizzasdu83&rank_icon=percentile&custom_title=SaaS%27%20%28bad%29%20github%20stats%3A&show_icons=true&include_all_commits=true&theme=ambient_gradient&bg_color=-20%2C0000ff%2Cff0000)
